@@ -11,6 +11,7 @@
 		562E1B982AE1B8BF005FDD10 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562E1B972AE1B8BF005FDD10 /* ContentView.swift */; };
 		562E1B9A2AE1B8C8005FDD10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 562E1B992AE1B8C8005FDD10 /* Assets.xcassets */; };
 		562E1B9D2AE1B8C8005FDD10 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 562E1B9C2AE1B8C8005FDD10 /* Preview Assets.xcassets */; };
+		562E1BA42AE1B8E4005FDD10 /* GridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562E1BA32AE1B8E3005FDD10 /* GridExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		562E1B972AE1B8BF005FDD10 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		562E1B992AE1B8C8005FDD10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		562E1B9C2AE1B8C8005FDD10 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		562E1BA32AE1B8E3005FDD10 /* GridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				562E1B952AE1B8BF005FDD10 /* GridStudyApp.swift */,
 				562E1B972AE1B8BF005FDD10 /* ContentView.swift */,
+				562E1BA32AE1B8E3005FDD10 /* GridExample.swift */,
 				562E1B992AE1B8C8005FDD10 /* Assets.xcassets */,
 				562E1B9B2AE1B8C8005FDD10 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				562E1BA42AE1B8E4005FDD10 /* GridExample.swift in Sources */,
 				562E1B982AE1B8BF005FDD10 /* ContentView.swift in Sources */,
 				562E1B962AE1B8BF005FDD10 /* GridStudyApp.swift in Sources */,
 			);
